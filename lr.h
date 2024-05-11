@@ -1,0 +1,14 @@
+#include <stdio.h>
+int lr1(void);
+int lr2(void);
+int lr3(void);
+int lr1d(void);
+int lr2d(void);
+int lr3d(void);
+int lr4d(void);
+int lr4(void);
+int lr5(void);
+int lr5d(void);
+int lr6(void);
+int lr6d(void);
+int lr7(void);
